@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thiagoalcr/)
 
 ---
-
 ## 🤖 Linguagens & Tecnologias
 <img 
     align="left" 
